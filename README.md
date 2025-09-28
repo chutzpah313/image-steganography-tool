@@ -42,24 +42,6 @@ python steganography_gui.py
 - ✅ Generate stego images  
 - ✅ Visual quality analysis with histograms
 - ✅ File size comparison and explanation
-- ✅ Professional GUI interface
+- ✅  GUI interface
 
-## Results Example
 
-| Metric | Original | Stego | Change |
-|--------|----------|-------|---------|
-| Size (bytes) | 425,894 | 425,915 | +0.0049% |
-| PSNR (dB) | - | 45.32 | Excellent Quality |
-
-**Why similar file sizes?** LSB technique only modifies the least significant bit of pixels, causing minimal size changes while maintaining image quality.
-
-## Student Information
-
-**Course**: IKB21303 - Data Hiding & Encryption  
-**Lecturer**: Dr. Delina Beh Mei Yin  
-**Institution**: UniKL MIIT  
-**Semester**: July 2025
-
----
-
-*This tool demonstrates practical implementation of steganographic techniques with comprehensive analysis capabilities as required by the assignment rubric.*
